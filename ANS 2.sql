@@ -1,0 +1,1 @@
+select Technology,count(*)as AllSingleCount from india_telecom_data_speeds group by Technology;
